@@ -1,0 +1,20 @@
+{
+  "name": "npmchallenge",
+  "version": "1.0.0",
+  "description": "delivers random names in a public package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Npm"
+  ],
+  "author": "Christopher Hayling <christopherhayling9@gmail.com>",
+  "license": "MIT",
+  "bin":{
+    "randomChallenge":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
