@@ -13,8 +13,16 @@
   ],
   "author": "Christopher Hayling <christopherhayling9@gmail.com>",
   "license": "MIT",
-  "bin":{
-    "randomChallenge":"./bin/global.js"
+  "bin": {
+    "randomChallenge": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chr1st0ph3r9/npmChallenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chr1st0ph3r9/npmChallenge/issues"
+  },
+  "homepage": "https://github.com/chr1st0ph3r9/npmChallenge#readme"
 }
